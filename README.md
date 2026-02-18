@@ -30,7 +30,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![CHOIMINSEON's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHOIMINSEON&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIMINSEON&layout=compact&theme=radical)](https://github.com/CHOIMINSEON)
+<img src="https://github-readme-stats.vercel.app/api?username=CHOIMINSEON&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CHOIMINSEON&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CHOIMINSEON&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+</div>
