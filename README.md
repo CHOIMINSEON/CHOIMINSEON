@@ -1,6 +1,5 @@
 # 안녕하세요, 우리가 살아가는 공간의 빅데이터를 분석하고 AI를 활용해 일상 속 지속가능한 발전을 이루고 싶은 연구자 최민선입니다!
 
-> *"Analyzing spatial big data and leveraging AI for sustainable development in our everyday lives."*
 
 ## 🔬 Research Interests
 도시공학 (Urban Engineering), 공간연구 (Spatial Analysis), AI & Deep Learning, Computer Vision
